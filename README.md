@@ -10,7 +10,7 @@ In contrast, **Multi-UAV Relay Networks** present a **cost-effective and rapidly
 
 However, **to ensure the efficiency and reliability of UAV-based networks, optimizing both UAV deployment strategy and routing protocols is essential**. A well-optimized system must **maintain network connectivity, minimize frequency interference, and prevent network congestion**, all while dynamically adapting to changing conditions.  
 
-This research focuses on **integrating optimal routing protocols and deployment strategies within Multi-UAV Relay Networks**, aiming to **deliver a high-performance, resilient communication system for disaster-stricken areas, battlefields, and regions lacking traditional network infrastructure**.  
+We focus on **integrating optimal routing protocols and deployment strategies within Multi-UAV Relay Networks**, aiming to **deliver a high-performance, resilient communication system for disaster-stricken areas, battlefields, and regions lacking traditional network infrastructure**.  
 
 
 
