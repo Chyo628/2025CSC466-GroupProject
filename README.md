@@ -41,11 +41,6 @@ This study aims to **optimize the routing protocol and deployment strategy for M
 
 
 
-
-
-
-
-
 ## **3. Problems**
 While multi-UAV relay networks offer a powerful alternative for establishing communication in environments lacking traditional infrastructure, they have several limitations compared to base station (BS)-based networks.
 
@@ -54,12 +49,15 @@ First, UAV networks suffer from capacity-limited wireless backhaul, which restri
 Second, UAV networks are more vulnerable to environmental factors such as wind, precipitation, and obstacles, unlike fixed ground base stations. These environmental challenges lead to higher path loss and increased interference, significantly affecting network performance. In urban environments with dense buildings or areas with high radio interference, signal degradation can be severe, limiting the network’s reliability.
 
 
+## **4. What has been done.**
+
+-why are they not sufficient
 
 
+## **5. Expected deliverables.**
 
 
-
-## **Biweekly Schedule**
+## **6Biweekly Schedule**
 
 
 
