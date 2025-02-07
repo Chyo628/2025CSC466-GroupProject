@@ -13,7 +13,7 @@ However, **to ensure the efficiency and reliability of UAV-based networks, optim
 
 
 
-## **Research Objectives**  
+## **2. Research Objectives**  
 
 This study aims to **optimize the routing protocol and deployment strategy for Multi-UAV Relay Networks**, providing a **fast and reliable communication system for disaster-stricken areas, battlefields, and regions lacking traditional network infrastructure**.  
 
@@ -47,6 +47,14 @@ This study aims to **optimize the routing protocol and deployment strategy for M
 
 
 ## **3. Problems**
+While multi-UAV relay networks offer a powerful alternative for establishing communication in environments lacking traditional infrastructure, they have several limitations compared to base station (BS)-based networks.
+
+First, UAV networks suffer from capacity-limited wireless backhaul, which restricts the transmission rate when UAVs connect to a base station​The_Optimal_Placement_f…. Unlike terrestrial networks with fixed fiber-optic backhaul, UAV networks rely on wireless relays, meaning that as the number of hops increases, overall network performance may degrade due to accumulated delays and bandwidth limitations.
+
+Second, UAV networks are more vulnerable to environmental factors such as wind, precipitation, and obstacles, unlike fixed ground base stations. These environmental challenges lead to higher path loss and increased interference, significantly affecting network performance. In urban environments with dense buildings or areas with high radio interference, signal degradation can be severe, limiting the network’s reliability.
+
+
+
 
 
 
