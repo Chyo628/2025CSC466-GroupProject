@@ -1,6 +1,4 @@
-# **CSC466 Group Project**
-
-# **Optimal Routing Protocol and Deployment Strategy for Multi-UAV Relay Networks**
+# **CSC466 Group Project: Optimal Routing Protocol and Deployment Strategy for Multi-UAV Relay Networks**
 
 ## **1. Introduction**  
 
