@@ -2,7 +2,7 @@
 
 # **Optimal Routing Protocol and Deployment Strategy for Multi-UAV Relay Networks**
 
-## **Introduction**  
+## **1. Introduction**  
 
 Communication infrastructure is a fundamental pillar of modern society, yet it remains highly vulnerable to **wars, natural disasters, and large-scale social unrest**, where traditional terrestrial networks can be easily disrupted. In the event of earthquakes, floods, or military conflicts, **ground-based cellular and wired networks may become inoperable**, severely limiting communication capabilities. While **satellite communication** can serve as an alternative, **high deployment costs, excessive latency, and the requirement for specialized terminals (Satellite Terminals) make it impractical for widespread use.**  
 
@@ -13,11 +13,41 @@ However, **to ensure the efficiency and reliability of UAV-based networks, optim
 
 
 
-## **Research Objectives**
+## **Research Objectives**  
+
+This study aims to **optimize the routing protocol and deployment strategy for Multi-UAV Relay Networks**, providing a **fast and reliable communication system for disaster-stricken areas, battlefields, and regions lacking traditional network infrastructure**.  
+
+### **1) Optimizing UAV Deployment Strategy**  
+- The deployment of UAVs is a **critical factor affecting network performance and sustainability**. This research explores **dynamic optimization methods** for UAV deployment.  
+- Traditional studies often assume **fixed optimal placements**, but this research aims to develop a **real-time adaptive deployment strategy** where UAVs can adjust their positions dynamically.  
+- Key factors considered in the deployment strategy:  
+  - **Maximizing Coverage:** Optimizing UAV positions to ensure all ground users remain connected.  
+  - **Maintaining Network Connectivity:** Optimizing the number of hops between UAVs to prevent network fragmentation and ensure stability.  
+
+### **2) Developing an Optimal Routing Protocol**  
+- This research focuses on **designing a routing protocol that ensures stable network connectivity and maximizes data transmission speed in a multi-hop UAV relay network**.  
+- Challenges in UAV-based routing:  
+  - **Dynamic Topology Changes:** UAV mobility constantly alters network structure, requiring a routing algorithm that adapts to real-time conditions.  
+  - **Minimizing Frequency Interference:** Preventing data collisions and optimizing channel allocation.  
+  - **Reducing Transmission Latency:** Selecting the best routing paths to minimize delays and improve network performance.  
+- The proposed routing protocol will be compared with existing methods such as **AODV (Ad hoc On-Demand Distance Vector) and OLSR (Optimized Link State Routing)** to evaluate its effectiveness in UAV networks.  
+
+### **3) AI-Based Network Optimization**  
+- To achieve **real-time adaptive routing and deployment**, this research will incorporate **AI-based optimization techniques**.  
+- This study explores **Reinforcement Learning, Machine Learning, or Deep Learning approaches** for UAV network optimization.  
+- Why AI is necessary for UAV network optimization:  
+  - Traditional algorithms are **static and predefined**, while AI-based approaches can **continuously learn and adapt** to real-time changes in network topology.  
+  - **Self-reconfigurable UAV Networks** enable autonomous decision-making for deployment and routing, improving **network efficiency and reliability**.  
+  - AI can optimize UAV mobility and network operations while **reducing energy consumption and maximizing connectivity**.  
 
 
 
 
+
+
+
+
+## **3. Problems**
 
 
 
