@@ -1,5 +1,5 @@
 # **CSC466 Group Project: Optimal Routing Protocol and Deployment Strategy for Multi-UAV Relay Networks**
-
+# YoungHyo Kim,Jon Edwards
 ## **1. Introduction**  
 
 Communication infrastructure is a fundamental pillar of modern society, yet it remains highly vulnerable to **wars, natural disasters, and large-scale social unrest**, where traditional terrestrial networks can be easily disrupted. In the event of earthquakes, floods, or military conflicts, **ground-based cellular and wired networks may become inoperable**, severely limiting communication capabilities. While **satellite communication** can serve as an alternative, **high deployment costs, excessive latency, and the requirement for specialized terminals (Satellite Terminals) make it impractical for widespread use.**  
@@ -53,10 +53,13 @@ Second, UAV networks are more vulnerable to environmental factors such as wind, 
 
 
 ## **5. Expected deliverables.**
-
+We'll have a simulator for drones that will be capable of testing different protocols and channel allocation for wifi, transmittion. 
 
 ## **6Biweekly Schedule**
-
+week 2 reseach plan
+week 4 prototype of simulator
+week 6 fully functional simulation, plus data collection 
+week 8 final report
 
 
 
