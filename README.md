@@ -55,11 +55,11 @@ Second, UAV networks are more vulnerable to environmental factors such as wind, 
 ## **5. Expected deliverables.**
 We'll have a simulator for drones that will be capable of testing different protocols and channel allocation for wifi, transmittion. 
 
-## **6Biweekly Schedule**
-#### week 2 reseach plan
-#### week 4 prototype of simulator
-#### week 6 fully functional simulation, plus data collection 
-#### **week 8 final report**
+## **6. Biweekly Schedule**
+### week 2 reseach plan
+### week 4 prototype of simulator
+### week 6 fully functional simulation, plus data collection 
+### week 8 final report
 
 
 
