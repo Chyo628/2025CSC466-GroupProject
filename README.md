@@ -48,12 +48,20 @@ Second, UAV networks are more vulnerable to environmental factors such as wind, 
 
 
 ## **4. What has been done.**
+There are many different wireless channel allocation and different trajectory opitmizations. Asking chat gpt these are just some of the 
+**Adaptive Channel Division MAC (ACD-MAC)**: This protocol dynamically adjusts the division between control and service channels based on network conditions, enhancing communication performance in high-mobility UAV networks.
 
--why are they not sufficient
+**Non-Orthogonal Multiple Access (NOMA)**: NOMA allows multiple UAVs to share the same frequency band by superimposing signals at different power levels, increasing spectrum efficiency and system capacity.
+
+
+**Line-of-Sight (LoS)-Based Allocation**: Channel resources can be allocated based on the probability of establishing a LoS link between UAVs and ground stations, optimizing communication quality.
+
+
+**Dynamic Channel Selection**: UAVs can employ dynamic channel selection methods to mitigate interference and jamming, ensuring robust communication links during critical operations. 
 
 
 ## **5. Expected deliverables.**
-We'll have a simulator for drones that will be capable of testing different protocols and channel allocation for wifi, transmittion. 
+We'll have a simulator built with ns3 for drones that will be capable of testing different protocols and channel allocation for wireless networks. 
 
 ## **6. Biweekly Schedule**
 ### week 2: reseach plan
@@ -62,7 +70,3 @@ We'll have a simulator for drones that will be capable of testing different prot
 ### week 8: final report
 
  
-
-
-
-What am I doing?
