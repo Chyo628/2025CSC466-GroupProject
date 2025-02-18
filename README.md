@@ -30,13 +30,6 @@ This study aims to **optimize the routing protocol and deployment strategy for M
   - **Reducing Transmission Latency:** Selecting the best routing paths to minimize delays and improve network performance.  
 - The proposed routing protocol will be compared with existing methods such as **AODV (Ad hoc On-Demand Distance Vector) and OLSR (Optimized Link State Routing)** to evaluate its effectiveness in UAV networks.  
 
-### **3) (Optional)AI-Based Network Optimization**  
-- To achieve **real-time adaptive routing and deployment**, this research will incorporate **AI-based optimization techniques**.  
-- This study explores **Reinforcement Learning, Machine Learning, or Deep Learning approaches** for UAV network optimization.  
-- Why AI is necessary for UAV network optimization:  
-  - Traditional algorithms are **static and predefined**, while AI-based approaches can **continuously learn and adapt** to real-time changes in network topology.  
-  - **Self-reconfigurable UAV Networks** enable autonomous decision-making for deployment and routing, improving **network efficiency and reliability**.  
-
 
 
 ## **3. Problems**
