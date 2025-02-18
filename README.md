@@ -54,7 +54,7 @@ There are many different wireless channel allocation and different trajectory op
 
 
 ## **5. Expected deliverables.**
-We'll have a simulator built with ns3 for drones that will be capable of testing different protocols and channel allocation for wireless networks. 
+We'll have a simulator built with **NS3** and **OMNET++** for drones that will be capable of testing different protocols and channel allocation for wireless networks. 
 
 ## **6. Biweekly Schedule**
 ### week 2: reseach plan
