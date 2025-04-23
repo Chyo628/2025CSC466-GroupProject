@@ -35,8 +35,14 @@ This study aims to **optimize the routing protocol and deployment strategy for M
 - The proposed routing protocol will be compared with existing methods such as **AODV (Ad hoc On-Demand Distance Vector) and OLSR (Optimized Link State Routing)** to evaluate its effectiveness in UAV networks.  
 
 
+## **3. Simulation**
+![](img/pic1.png)
 
-## **3. Problems**
+
+
+
+
+## **4. Problems**
 While multi-UAV relay networks offer a powerful alternative for establishing communication in environments lacking traditional infrastructure, they have several limitations compared to base station (BS)-based networks.
 
 First, UAV networks suffer from capacity-limited wireless backhaul, which restricts the transmission rate when UAVs connect to a base station​The_Optimal_Placement_f…. Unlike terrestrial networks with fixed fiber-optic backhaul, UAV networks rely on wireless relays, meaning that as the number of hops increases, overall network performance may degrade due to accumulated delays and bandwidth limitations.
@@ -44,7 +50,7 @@ First, UAV networks suffer from capacity-limited wireless backhaul, which restri
 Second, UAV networks are more vulnerable to environmental factors such as wind, precipitation, and obstacles, unlike fixed ground base stations. These environmental challenges lead to higher path loss and increased interference, significantly affecting network performance. In urban environments with dense buildings or areas with high radio interference, signal degradation can be severe, limiting the network’s reliability.
 
 
-## **4. What has been done.**
+## **5. What has been done.**
 There are many different wireless channel allocation and different trajectory opitmizations. Asking chat gpt these are just some of the 
 **Adaptive Channel Division MAC (ACD-MAC)**: This protocol dynamically adjusts the division between control and service channels based on network conditions, enhancing communication performance in high-mobility UAV networks.
 
@@ -57,13 +63,9 @@ There are many different wireless channel allocation and different trajectory op
 **Dynamic Channel Selection**: UAVs can employ dynamic channel selection methods to mitigate interference and jamming, ensuring robust communication links during critical operations. 
 
 
-## **5. Expected deliverables.**
+## **6. Expected deliverables.**
 We'll have a simulator built with **NS3** and **OMNET++** for drones that will be capable of testing different protocols and channel allocation for wireless networks. 
 
-## **6. Biweekly Schedule**
-### week 2: reseach plan
-### week 4: prototype of simulator
-### week 6: fully functional simulation, plus data collection 
-### week 8: final report
+
 
  
