@@ -39,17 +39,17 @@ This study aims to **optimize the routing protocol and deployment strategy for M
 
 ### Network Modeling and System Parameters
 1.	Node Types and Roles:
-●	Sender (user[0]): Acts as the source node generating traffic (using PingApp) at regular 3-second intervals.
-●	Receiver (gs[0]): Serves as the ground station (GS) that receives the data, representing the backhaul connection to wider networks.
-●	UAV Nodes: These are deployed as relay nodes within the aerial network, with three main roles:
-○	Gateway UAV: Provides the critical connection between the GS and the UAV swarm by dynamically being assigned based on proximity.
-○	Mesh UAVs: Form a multi-hop relay network that ensures robust, redundant paths for packet forwarding.
-○	LTE/5G Base Station UAV: Acts as a mobile base station to provide high-speed connectivity directly to ground users.
+- ●	Sender (user[0]): Acts as the source node generating traffic (using PingApp) at regular 3-second intervals.
+- ●	Receiver (gs[0]): Serves as the ground station (GS) that receives the data, representing the backhaul connection to wider networks.
+- ●	UAV Nodes: These are deployed as relay nodes within the aerial network, with three main roles:
+- ○	Gateway UAV: Provides the critical connection between the GS and the UAV swarm by dynamically being assigned based on proximity.
+- ○	Mesh UAVs: Form a multi-hop relay network that ensures robust, redundant paths for packet forwarding.
+- ○	LTE/5G Base Station UAV: Acts as a mobile base station to provide high-speed connectivity directly to ground users.
 
 2.	Communication Ranges:
-●	User nodes: 3 km
-●	UAV nodes: 30 km
-●	Ground Station (GS): 50 km
+- ●	User nodes: 3 km
+- ●	UAV nodes: 30 km
+- ●	Ground Station (GS): 50 km
 
 
 
