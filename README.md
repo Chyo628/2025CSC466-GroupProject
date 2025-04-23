@@ -1,6 +1,6 @@
 # **CSC466 Group Project: Optimal Routing Protocol and Deployment Strategy for Multi-UAV Relay Networks**
 
-![](img/pic1.png)
+![](img/demo1.gif)
 ### This is a Simulation for FANETs, Created with OMNET++ 6.1 
 
 # YoungHyo Kim,Jon Edwards
