@@ -1,0 +1,10 @@
+<scenario>
+
+
+    <at t="60.0">
+        <shutdown module="man[2]"/>
+    </at>
+	<at t="120.0">
+        <shutdown module="man[4]"/>
+    </at>
+</scenario>
