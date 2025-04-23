@@ -3,7 +3,6 @@
 ![](img/demo2.gif)
 ### This is a Simulation for FANETs, Created with OMNET++ 6.1 
 
-# YoungHyo Kim,Jon Edwards
 ## **1. Introduction**  
 
 Communication infrastructure is a fundamental pillar of modern society, yet it remains highly vulnerable to **wars, natural disasters, and large-scale social unrest**, where traditional terrestrial networks can be easily disrupted. In the event of earthquakes, floods, or military conflicts, **ground-based cellular and wired networks may become inoperable**, severely limiting communication capabilities. While **satellite communication** can serve as an alternative, **high deployment costs, excessive latency, and the requirement for specialized terminals (Satellite Terminals) make it impractical for widespread use.**  
