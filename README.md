@@ -37,6 +37,9 @@ This study aims to **optimize the routing protocol and deployment strategy for M
 ## **3. Simulation**
 ![](img/pic4.png)
 ![](img/pic5.png)
+
+We simulated a scenario in which communication infrastructure on Vancouver Island was assumed to be completely connected. In this setup, ground users were positioned in UVIC, and communication was established with a ground station located in Vancouver using 6 UAVs. All communication in the simulation was based on line-of-sight (LOS) connectivity, ensuring that data transmission only occurred when there was a direct visual link between nodes.
+
 ### Network Modeling and System Parameters
 1.	Node Types and Roles:
 - **Sender (user[0])**: Acts as the source node generating traffic (using PingApp) at regular 3-second intervals.
